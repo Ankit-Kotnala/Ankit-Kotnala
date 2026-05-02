@@ -10,7 +10,7 @@
 
 
 <div align ="center">
-<a href="https://linkedin.com/in/ankitkotnala"><img src="https://img.shields.io/badge/LinkedIn-0E75B6?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/ankit-kotnala-/"><img src="https://img.shields.io/badge/LinkedIn-0E75B6?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/ankitkotnala11"><img src="https://img.shields.io/badge/Twitter-0E75B6?style=flat-square&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@ankit.kotnala12"><img src="https://img.shields.io/badge/Medium-0E75B6?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;
 <a href="mailto:ankit.kotnala12@gmail.com"><img src="https://img.shields.io/badge/Email-0E75B6?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
