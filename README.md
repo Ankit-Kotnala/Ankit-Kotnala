@@ -86,46 +86,81 @@
 
 <div align="center">
 
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kotnala&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=0E75B6&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=Ankit%20Kotnala%20Contribution%20Graph&amp;radius=10"
-    alt="Ankit Kotnala Contribution Graph"
-  />
+  <!-- Row 1 -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kotnala&amp;bg_color=2E3440&amp;color=D8DEE9&amp;title_color=88C0D0&amp;line=88C0D0&amp;point=ECEFF4&amp;area=true&amp;area_color=88C0D0&amp;hide_border=true&amp;radius=8&amp;height=260&amp;custom_title=Contribution%20Activity"
+    />
+    <img
+      width="49%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kotnala&amp;bg_color=ECEFF4&amp;color=2E3440&amp;title_color=5E81AC&amp;line=5E81AC&amp;point=2E3440&amp;area=true&amp;area_color=81A1C1&amp;hide_border=true&amp;radius=8&amp;height=260&amp;custom_title=Contribution%20Activity"
+      alt="Contribution Activity Graph"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Kotnala&amp;theme=nord_dark"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Kotnala&amp;theme=nord_bright"
+      alt="GitHub Profile Summary"
+    />
+  </picture>
 
   <br/><br/>
 
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Kotnala&amp;theme=github_dark"
-    alt="Ankit Kotnala Profile Summary"
-  />
+  <!-- Row 2 -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Kotnala&amp;theme=nord_dark"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Kotnala&amp;theme=nord_bright"
+      alt="GitHub Stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankit-Kotnala&amp;theme=nord_dark&amp;utcOffset=5.5"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankit-Kotnala&amp;theme=nord_bright&amp;utcOffset=5.5"
+      alt="Productive Time"
+    />
+  </picture>
 
   <br/><br/>
 
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Kotnala&amp;theme=github_dark"
-    alt="Ankit Kotnala GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankit-Kotnala&amp;theme=github_dark&amp;utcOffset=5.5"
-    alt="Ankit Kotnala Productive Time"
-  />
+  <!-- Row 3 -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Kotnala&amp;theme=nord_dark"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Kotnala&amp;theme=nord_bright"
+      alt="Top Languages by Repository"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-Kotnala&amp;theme=nord_dark"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-Kotnala&amp;theme=nord_bright"
+      alt="Top Languages by Commit"
+    />
+  </picture>
 
-  <br/><br/>
-
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Kotnala&amp;theme=github_dark"
-    alt="Top Languages by Repository"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-Kotnala&amp;theme=github_dark"
-    alt="Top Languages by Commit"
-  />
-
-</div>
 </div>
 
