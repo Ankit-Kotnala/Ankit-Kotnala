@@ -20,7 +20,6 @@
 </div>
 
 
-
 ## About
 
 - Software Engineer at **Zinnia**
@@ -69,7 +68,6 @@
 <td>HTML, CSS, JS, React.Js, TypeScript, Node.Js</td>
 </tr>
 </table>
-
 
 ## Current Focus
 
