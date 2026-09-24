@@ -19,7 +19,6 @@
 </p>
 </div>
 
-
 ## About
 
 - Software Engineer at **Zinnia**
@@ -78,5 +77,3 @@
 - Exploring the concept of **persistent memory** in AI
 - Exploring the way of going from **0 -> 1**
 - Bulding **scalable** systems
-
-
