@@ -67,13 +67,3 @@
 <td>HTML, CSS, JS, React.Js, TypeScript, Node.Js</td>
 </tr>
 </table>
-
-## Current Focus
-
-- Designing **RAG-based systems for production**
-- Building **LLM pipelines and workflows**
-- Strengthening **backend + deployment skills**
-- Exploring **fine-tuning vs retrieval trade-offs**
-- Exploring the concept of **persistent memory** in AI
-- Exploring the way of going from **0 -> 1**
-- Bulding **scalable** systems
